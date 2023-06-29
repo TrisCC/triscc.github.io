@@ -40886,7 +40886,7 @@ $1(a){return A.axV()},
 $S:150}
 A.Uy.prototype={
 $2(a,b){var s=A.ahl(B.a_,B.zc,!0),r=A.ahl(B.Z,B.za,!0),q=b.a
-return new A.n2(A.awZ(A.ajA(B.Bc,new A.Uw(),t.bM),new A.Ux(),t.be),"Clickbait Conondrum",s,r,q,null)},
+return new A.n2(A.awZ(A.ajA(B.Bc,new A.Uw(),t.bM),new A.Ux(),t.be),"Clickbait Conundrum",s,r,q,null)},
 $S:151}
 A.Ux.prototype={
 $1(a){return new A.oD()},
