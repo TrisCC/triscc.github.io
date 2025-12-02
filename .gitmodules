@@ -1,3 +1,6 @@
 [submodule "creative-programming"]
 	path = creative-programming
 	url = https://github.com/TrisCC/creative-programming.git
+[submodule "subreddit-language-lab"]
+	path = subreddit-language-lab
+	url = https://github.com/TrisCC/subreddit-language-lab.git
