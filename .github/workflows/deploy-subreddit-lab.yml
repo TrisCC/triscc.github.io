@@ -19,9 +19,7 @@ jobs:
         with:
           node-version: "20"
           cache: "npm"
-          cache-dependency-path: |
-            subreddit-language-lab/package-lock.json
-            subreddit-language-lab/tsconfig.json
+          cache-dependency-path: subreddit-language-lab/package-lock.json
 
       - name: Build subreddit-language-lab
         env:
@@ -32,13 +30,13 @@ jobs:
           npm run build
 
       - name: List build output
-        run: ls -R subreddit-language-lab
+        run: ls -R
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: subreddit-language-lab/dist
-          name: github-pages
+          name: sll-build
           retention-days: 1
 
   deploy:
@@ -58,5 +56,5 @@ jobs:
       - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v4
         with:
-          artifact-name: github-pages
-          artifact-path: ./github-pages
+          artifact-name: ssl-build
+          artifact-path: ./ssl-build
