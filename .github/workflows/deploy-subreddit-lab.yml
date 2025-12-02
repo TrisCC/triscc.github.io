@@ -23,7 +23,7 @@ jobs:
 
       - name: Build subreddit-language-lab
         env:
-          BASE_PATH: "/subreddit-language-lab/"
+          BASE_PATH: "/${{ github.event.repository.name }}"
         run: |
           cd subreddit-language-lab
           npm install
