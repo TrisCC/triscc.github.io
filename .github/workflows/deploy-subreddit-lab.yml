@@ -22,6 +22,7 @@ jobs:
           cache-dependency-path: subreddit-language-lab/package-lock.json
 
       - name: Build subreddit-language-lab
+        BASE_PATH: "/${{ github.event.repository.name }}"
         run: |
           cd subreddit-language-lab
           npm install
