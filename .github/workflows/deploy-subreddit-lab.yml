@@ -23,7 +23,7 @@ jobs:
 
       - name: Build subreddit-language-lab
         env:
-          BASE_PATH: "/${{ github.event.repository.name }}"
+          BASE_PATH: "/subreddit-language-lab/"
         run: |
           cd subreddit-language-lab
           npm install
@@ -36,7 +36,7 @@ jobs:
         uses: actions/upload-pages-artifact@v4
         with:
           path: subreddit-language-lab/dist
-          name: github-pages
+          name: subreddit-language-lab
           retention-days: 1
 
   deploy:
@@ -56,4 +56,4 @@ jobs:
       - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v4
         with:
-          artifact-name: github-pages
+          artifact_name: subreddit-language-lab
