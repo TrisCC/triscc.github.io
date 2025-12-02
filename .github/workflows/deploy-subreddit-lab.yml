@@ -36,7 +36,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           path: subreddit-language-lab/dist
-          name: subreddit-language-lab
+          name: github-pages
           retention-days: 1
 
   deploy:
@@ -48,9 +48,12 @@ jobs:
       pages: write
       id-token: write
 
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy-pages.outputs.page_url }}
+
     steps:
       - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v4
         with:
-          artifact-name: subreddit-language-lab
-          artifact-path: ./subreddit-language-lab
+          artifact-name: github-pages
