@@ -33,7 +33,7 @@ jobs:
         run: ls -R
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v4
         with:
           path: subreddit-language-lab/dist
           name: sll-build
