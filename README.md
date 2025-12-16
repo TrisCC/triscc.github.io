@@ -1,7 +1,3 @@
-# TrisCC GitHub Pages
+# TrisCC Portfolio
 
-This repository serves as a portfolio.
-
-Current available projects:
-[Clickbait Conundrum](https://triscc.github.io/clickbait_conundrum/#/)
-[Creative Programming Assignments](https://triscc.github.io/creative-programming/index.html)
+This Svelte website serves as my portfolio website.
