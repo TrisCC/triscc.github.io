@@ -11,62 +11,20 @@
 	<link rel="icon" href={favicon} />
 </svelte:head>
 
-<div class="container">
-	<header>
-		<nav>
-			<a href="/">Home</a>
-			<a href="#projects">Projects</a>
-			<a href="#contact">Contact</a>
+<div class="flex flex-col min-h-screen font-sans text-gray-800">
+	<header class="bg-gray-100 p-4 border-b border-gray-300">
+		<nav class="flex justify-center gap-4">
+			<a href="/" class="text-gray-800 font-medium hover:text-blue-600">Home</a>
+			<a href="#projects" class="text-gray-800 font-medium hover:text-blue-600">Projects</a>
+			<a href="#contact" class="text-gray-800 font-medium hover:text-blue-600">Contact</a>
 		</nav>
 	</header>
 
-	<main>
+	<main class="flex-1 p-8">
 		{@render children()}
 	</main>
 
-	<footer>
+	<footer class="bg-gray-100 p-4 text-center border-t border-gray-300">
 		<p>&copy; 2025 Tristan. All rights reserved.</p>
 	</footer>
 </div>
-
-<style>
-	.container {
-		display: flex;
-		flex-direction: column;
-		min-height: 100vh;
-		font-family:
-			-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans',
-			'Helvetica Neue', sans-serif;
-		color: #333;
-	}
-
-	header {
-		background: #f8f8f8;
-		padding: 1rem;
-		border-bottom: 1px solid #ddd;
-	}
-
-	nav {
-		display: flex;
-		justify-content: center;
-		gap: 1rem;
-	}
-
-	nav a {
-		text-decoration: none;
-		color: #333;
-		font-weight: 500;
-	}
-
-	main {
-		flex: 1;
-		padding: 2rem;
-	}
-
-	footer {
-		background: #f8f8f8;
-		padding: 1rem;
-		text-align: center;
-		border-top: 1px solid #ddd;
-	}
-</style>
