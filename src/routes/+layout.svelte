@@ -20,7 +20,7 @@
 		</nav>
 	</header>
 
-	<main class="flex-1 p-8">
+	<main class="flex-1">
 		{@render children()}
 	</main>
 
