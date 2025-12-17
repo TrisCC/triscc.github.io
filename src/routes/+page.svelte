@@ -15,11 +15,6 @@
 >
 	<nav class="flex justify-center gap-4">
 		<a
-			href="/"
-			class="text-gray-800 dark:text-gray-200 font-medium hover:text-blue-600 dark:hover:text-blue-400"
-			>Home</a
-		>
-		<a
 			href="#projects"
 			class="text-gray-800 dark:text-gray-200 font-medium hover:text-blue-600 dark:hover:text-blue-400"
 			>Projects</a
