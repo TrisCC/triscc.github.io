@@ -247,7 +247,7 @@
 				<div>
 					<h3 class="text-xl font-bold text-gray-800 dark:text-gray-200">BSc Computer Science</h3>
 					<p class="text-md text-gray-600 dark:text-gray-400">
-						Leiden University | Sep 2020 - Jul 2025
+						Leiden University | Sep 2019 - Jul 2025
 					</p>
 					<p class="text-gray-700 dark:text-gray-300 mt-2">
 						Bachelor's degree in Computer Science with a minor in Digital Humanities.
