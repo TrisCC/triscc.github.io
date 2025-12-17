@@ -64,83 +64,114 @@
 			<div
 				class="border border-gray-300 dark:border-gray-700 p-6 rounded-lg bg-gray-50 dark:bg-gray-800 hover:shadow-lg transition-shadow flex overflow-hidden"
 			>
-				<div>
-					<h3 class="text-xl font-bold mb-2 text-gray-800 dark:text-gray-200">Turff Mobile</h3>
-					<p class="text-gray-700 dark:text-gray-300 mb-4">
-						Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium vel officia
-						adipisci dolore autem sed illo, et dolor quaerat maiores, enim aperiam in exercitationem
-						obcaecati recusandae ad, minus quasi nobis?
-					</p>
-					<button
-						class="inline-block text-blue-600 dark:text-blue-400 font-medium hover:underline"
-						type="button">View Project</button
+				<div class="mr-6 flex flex-col grow">
+					<div>
+						<h3 class="text-xl font-bold mb-2 text-gray-800 dark:text-gray-200">Turff Mobile</h3>
+						<p class="text-gray-700 dark:text-gray-300 mb-4">
+							The Turff mobile app is a companion application for the Turff tablets, allowing users
+							to manage and track their household expenses on the go.
+						</p>
+					</div>
+					<a
+						href="https://www.turff.nl/app/"
+						class="inline-block text-blue-600 dark:text-blue-400 font-medium hover:underline mt-auto"
+						>View Project</a
 					>
 				</div>
 				<img
-					src="/images/Mobile_Turff.jpg"
+					src="/images/Turff_Mobile.jpg"
 					alt="Turff Mobile App"
 					class="max-w-[33%] h-full max-h-[33vh] object-cover rounded-lg"
 				/>
 			</div>
 			<div
-				class="border border-gray-300 dark:border-gray-700 p-6 rounded-lg bg-gray-50 dark:bg-gray-800 hover:shadow-lg transition-shadow"
+				class="border border-gray-300 dark:border-gray-700 p-6 rounded-lg bg-gray-50 dark:bg-gray-800 hover:shadow-lg transition-shadow flex overflow-hidden"
 			>
-				<h3 class="text-xl font-bold mb-2 text-gray-800 dark:text-gray-200">Turff Tablets</h3>
-				<p class="text-gray-700 dark:text-gray-300 mb-4">
-					Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatem nesciunt quae dolor
-					earum illo cupiditate, corporis atque error ratione. Odit maiores rem consectetur tenetur
-					ab error maxime hic laboriosam blanditiis.
-				</p>
-				<button
-					class="inline-block text-blue-600 dark:text-blue-400 font-medium hover:underline"
-					type="button">View Project</button
+				<div class="mr-6 flex flex-col grow">
+					<div>
+						<h3 class="text-xl font-bold mb-2 text-gray-800 dark:text-gray-200">Turff Tablet</h3>
+						<p class="text-gray-700 dark:text-gray-300 mb-4">
+							The Turff Tablet is an Android-based device designed to keep track of household
+							expenses in student housing. It features a user-friendly interface that allows
+							residents to log their expenses, view spending history, and manage budgets
+							effectively.
+						</p>
+					</div>
+					<a
+						href="https://www.turff.nl/tablet/"
+						class="inline-block text-blue-600 dark:text-blue-400 font-medium hover:underline mt-auto"
+						>View Project</a
+					>
+				</div>
+				<img
+					src="/images/Turff_Tablet.jpg"
+					alt="Turff Tablet"
+					class="max-w-[33%] h-full max-h-[33vh] object-cover rounded-lg"
+				/>
+			</div>
+			<div
+				class="border border-gray-300 dark:border-gray-700 p-6 rounded-lg bg-gray-50 dark:bg-gray-800 hover:shadow-lg transition-shadow flex flex-col"
+			>
+				<div class="grow">
+					<h3 class="text-xl font-bold mb-2 text-gray-800 dark:text-gray-200">
+						Subreddit Language Lab
+					</h3>
+					<p class="text-gray-700 dark:text-gray-300 mb-4">
+						The Subreddit Language Lab is a Svelte web application that visualizes language usage
+						across various subreddits. It provides insights into linguistic patterns and trends
+						within online communities.
+					</p>
+				</div>
+				<a
+					href="https://triscc.github.io/subreddit-language-lab/"
+					class="inline-block text-blue-600 dark:text-blue-400 font-medium hover:underline mt-auto"
+					>View Project</a
 				>
 			</div>
 			<div
-				class="border border-gray-300 dark:border-gray-700 p-6 rounded-lg bg-gray-50 dark:bg-gray-800 hover:shadow-lg transition-shadow"
+				class="border border-gray-300 dark:border-gray-700 p-6 rounded-lg bg-gray-50 dark:bg-gray-800 hover:shadow-lg transition-shadow flex flex-col"
 			>
-				<h3 class="text-xl font-bold mb-2 text-gray-800 dark:text-gray-200">
-					Subreddit Language Lab
-				</h3>
-				<p class="text-gray-700 dark:text-gray-300 mb-4">
-					Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquam eveniet consequuntur
-					praesentium culpa, delectus eum voluptate veritatis ut voluptates rerum, dolore quis
-					facilis tenetur cupiditate libero doloremque maxime. Repellendus, consequatur?
-				</p>
-				<button
-					class="inline-block text-blue-600 dark:text-blue-400 font-medium hover:underline"
-					type="button">View Project</button
+				<div class="grow">
+					<h3 class="text-xl font-bold mb-2 text-gray-800 dark:text-gray-200">
+						Clickbait Conundrum
+					</h3>
+					<p class="text-gray-700 dark:text-gray-300 mb-4">
+						The Clickbait Conundrum is a game that challenges players to identify and avoid
+						clickbait headlines. Players must navigate through a series of articles, making choices
+						that test their ability to discern genuine content from sensationalized clickbait.
+					</p>
+				</div>
+				<a
+					href="https://triscc.github.io/clickbait_conundrum/#/"
+					class="inline-block text-blue-600 dark:text-blue-400 font-medium hover:underline mt-auto"
+					>View Project</a
 				>
 			</div>
 			<div
-				class="border border-gray-300 dark:border-gray-700 p-6 rounded-lg bg-gray-50 dark:bg-gray-800 hover:shadow-lg transition-shadow"
+				class="border border-gray-300 dark:border-gray-700 p-6 rounded-lg bg-gray-50 dark:bg-gray-800 hover:shadow-lg transition-shadow flex overflow-hidden"
 			>
-				<h3 class="text-xl font-bold mb-2 text-gray-800 dark:text-gray-200">Clickbait Conundrum</h3>
-				<p class="text-gray-700 dark:text-gray-300 mb-4">
-					Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquam eveniet consequuntur
-					praesentium culpa, delectus eum voluptate veritatis ut voluptates rerum, dolore quis
-					facilis tenetur cupiditate libero doloremque maxime. Repellendus, consequatur?
-				</p>
-				<button
-					class="inline-block text-blue-600 dark:text-blue-400 font-medium hover:underline"
-					type="button">View Project</button
-				>
-			</div>
-			<div
-				class="border border-gray-300 dark:border-gray-700 p-6 rounded-lg bg-gray-50 dark:bg-gray-800 hover:shadow-lg transition-shadow"
-			>
-				<h3 class="text-xl font-bold mb-2 text-gray-800 dark:text-gray-200">
-					Creative Programming with P5.js
-				</h3>
-				<p class="text-gray-700 dark:text-gray-300 mb-4">
-					Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquam eveniet consequuntur
-					praesentium culpa, delectus eum voluptate veritatis ut voluptates rerum, dolore quis
-					facilis tenetur cupiditate libero doloremque maxime. Repellendus, consequatur?
-				</p>
-				<button
-					class="inline-block text-blue-600 dark:text-blue-400 font-medium hover:underline"
-					type="button">View Project</button
-				>
+				<div class="mr-6 flex flex-col grow">
+					<div>
+						<h3 class="text-xl font-bold mb-2 text-gray-800 dark:text-gray-200">
+							Creative Programming with P5.js
+						</h3>
+						<p class="text-gray-700 dark:text-gray-300 mb-4">
+							For the Creative Programming course, I developed various interactive visualizations
+							and animations using the P5.js library. These projects explored concepts such as
+							generative art, user interaction, and algorithmic design.
+						</p>
+					</div>
+					<a
+						href="https://triscc.github.io/creative-programming/index.html"
+						class="inline-block text-blue-600 dark:text-blue-400 font-medium hover:underline mt-auto"
+						>View Project</a
+					>
+				</div>
+				<img
+					src="/images/CrePro_Kinetic.png"
+					alt="Creative Programming with P5.js"
+					class="max-w-[33%] h-full max-h-[33vh] object-cover rounded-lg"
+				/>
 			</div>
 		</div>
 	</section>
