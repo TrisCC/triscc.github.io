@@ -198,9 +198,18 @@
 			<div class="space-y-6">
 				<div>
 					<h3 class="text-xl font-bold text-gray-800 dark:text-gray-200">
+						Android Developer
+					</h3>
+					<p class="text-md text-gray-600 dark:text-gray-400">9to5 software | Jan 2026 - Present</p>
+					<p class="text-gray-700 dark:text-gray-300 mt-2">
+						Responsible for the development of multiple in-house and client Android apps written in Kotlin.
+					</p>
+				</div>
+				<div>
+					<h3 class="text-xl font-bold text-gray-800 dark:text-gray-200">
 						Customer Support Representative
 					</h3>
-					<p class="text-md text-gray-600 dark:text-gray-400">aanmelder.nl | Apr 2025 - Present</p>
+					<p class="text-md text-gray-600 dark:text-gray-400">aanmelder.nl | Apr 2025 - Dec 2025</p>
 					<p class="text-gray-700 dark:text-gray-300 mt-2">
 						Part of the customer support team, assisting clients with product inquiries and
 						troubleshooting
