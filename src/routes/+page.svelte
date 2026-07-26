@@ -20,6 +20,11 @@
 			>Projects</a
 		>
 		<a
+			href="#creative-pursuits"
+			class="text-gray-800 dark:text-gray-200 font-medium hover:text-blue-600 dark:hover:text-blue-400"
+			>Creative Pursuits</a
+		>
+		<a
 			href="#work-experience"
 			class="text-gray-800 dark:text-gray-200 font-medium hover:text-blue-600 dark:hover:text-blue-400"
 			>Work Experience</a
@@ -207,6 +212,59 @@
 						alt="Creative Programming with P5.js"
 						class="max-w-[33%] h-full max-h-[33vh] object-cover rounded-lg"
 					/>
+				</div>
+			</div>
+		</section>
+
+		<section id="creative-pursuits" class="mb-8">
+			<h2
+				class="text-2xl font-semibold border-b-2 border-gray-300 dark:border-gray-700 pb-2 mb-4 text-gray-800 dark:text-gray-200"
+			>
+				Creative Pursuits
+			</h2>
+			<div class="space-y-4">
+				<div
+					class="flex items-start gap-4 p-4 rounded-lg bg-gray-50 dark:bg-gray-800"
+				>
+					<span class="text-3xl pt-0.5">🎧</span>
+					<div>
+						<h3 class="text-xl font-bold text-gray-800 dark:text-gray-200">DJ Cotino</h3>
+						<p class="text-md text-gray-600 dark:text-gray-400">
+							Various venues and a residency
+						</p>
+						<p class="text-gray-700 dark:text-gray-300 mt-2">
+							Semi-professional DJ playing a variety of music for a general crowd. Also a few
+							bookings in the local electronic music scene.
+						</p>
+					</div>
+				</div>
+				<div
+					class="flex items-start gap-4 p-4 rounded-lg bg-gray-50 dark:bg-gray-800"
+				>
+					<span class="text-3xl pt-0.5">🗓️</span>
+					<div>
+						<h3 class="text-xl font-bold text-gray-800 dark:text-gray-200">Event Management</h3>
+						<p class="text-md text-gray-600 dark:text-gray-400">SKY BASS</p>
+						<p class="text-gray-700 dark:text-gray-300 mt-2">
+							These events were mostly for some local venues and one in the UK. With 3 other
+							organizers we managed the marketing, sales and (technical) production of the events.
+						</p>
+					</div>
+				</div>
+				<div
+					class="flex items-start gap-4 p-4 rounded-lg bg-gray-50 dark:bg-gray-800"
+				>
+					<span class="text-3xl pt-0.5">🎨</span>
+					<div>
+						<h3 class="text-xl font-bold text-gray-800 dark:text-gray-200">Multimedia Production</h3>
+						<p class="text-md text-gray-600 dark:text-gray-400">
+							Self-branding and artistic development
+						</p>
+						<p class="text-gray-700 dark:text-gray-300 mt-2">
+							Various interests such as video editing, videography, design, music production and VJ'ing have crossed my path very regularly. I used these skills for my own
+							branding but also for the organisations I worked with.
+						</p>
+					</div>
 				</div>
 			</div>
 		</section>
