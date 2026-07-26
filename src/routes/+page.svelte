@@ -64,6 +64,28 @@
 				>
 					<div class="mr-6 flex flex-col grow">
 						<div>
+							<h3 class="text-xl font-bold mb-2 text-gray-800 dark:text-gray-200">Odd Bird Out</h3>
+							<p class="text-gray-700 dark:text-gray-300 mb-4">
+								OddBirdOut is a three-player interactive game installation made for an art exhibition. The installation aims to explore the topic of cyber ostracism, which is the experience of feeling digitally excluded even when no one is actually rejecting you. Three players stand at a triangular structure, each using an Android tablet separated by panels so they cannot see each other. The game has players act as ostriches trying to collect eggs by choosing a partner to pair up with. Throughout the game, the players will face the fact that exclusion is not always personal and that the feeling of being ostracized is very easily triggered.
+							</p>
+						</div>
+						<a
+							href="https://triscc.github.io/OddBirdOut/"
+							class="inline-block text-blue-600 dark:text-blue-400 font-medium hover:underline mt-auto"
+							>View Project</a
+						>
+					</div>
+					<img
+						src="/images/oddbirdout.png"
+						alt="Odd Bird Out"
+						class="max-w-[33%] h-full max-h-[33vh] object-cover rounded-lg"
+					/>
+				</div>
+				<div
+					class="border border-gray-300 dark:border-gray-700 p-6 rounded-lg bg-gray-50 dark:bg-gray-800 hover:shadow-lg transition-shadow flex overflow-hidden"
+				>
+					<div class="mr-6 flex flex-col grow">
+						<div>
 							<h3 class="text-xl font-bold mb-2 text-gray-800 dark:text-gray-200">Turff Mobile</h3>
 							<p class="text-gray-700 dark:text-gray-300 mb-4">
 								The Turff mobile app is a companion application for the Turff tablets, allowing
@@ -197,12 +219,11 @@
 			</h2>
 			<div class="space-y-6">
 				<div>
-					<h3 class="text-xl font-bold text-gray-800 dark:text-gray-200">
-						Android Developer
-					</h3>
+					<h3 class="text-xl font-bold text-gray-800 dark:text-gray-200">Android and iOS Developer</h3>
 					<p class="text-md text-gray-600 dark:text-gray-400">9to5 software | Jan 2026 - Present</p>
 					<p class="text-gray-700 dark:text-gray-300 mt-2">
-						Responsible for the development of multiple in-house and client Android apps written in Kotlin.
+						Responsible for the development of multiple native in-house and client Android and iOS apps written in
+						Kotlin and Swift.
 					</p>
 				</div>
 				<div>
