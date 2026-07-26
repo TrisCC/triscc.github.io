@@ -71,7 +71,7 @@
 						<div>
 							<h3 class="text-xl font-bold mb-2 text-gray-800 dark:text-gray-200">Odd Bird Out</h3>
 							<p class="text-gray-700 dark:text-gray-300 mb-4">
-								OddBirdOut is a three-player interactive game installation made for an art exhibition. The installation aims to explore the topic of cyber ostracism, which is the experience of feeling digitally excluded even when no one is actually rejecting you. Three players stand at a triangular structure, each using an Android tablet separated by panels so they cannot see each other. The game has players act as ostriches trying to collect eggs by choosing a partner to pair up with. Throughout the game, the players will face the fact that exclusion is not always personal and that the feeling of being ostracized is very easily triggered.
+								OddBirdOut is a three-player interactive game installation made for an art exhibition. The installation aims to explore the topic of cyber ostracism, which is the experience of feeling excluded in digital spaces. It features a custom-made structure with Android tablets attached to it. Throughout the game, the players will face the fact that exclusion is not always personal and that the feeling of being ostracized may be very easily triggered.
 							</p>
 						</div>
 						<a
