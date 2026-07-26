@@ -233,8 +233,7 @@
 							Various venues and a residency
 						</p>
 						<p class="text-gray-700 dark:text-gray-300 mt-2">
-							Semi-professional DJ playing a variety of music for a general crowd. Also a few
-							bookings in the local electronic music scene.
+							Semi-professional DJ playing a variety of music for a general student crowd. There were also a few bookings in the local electronic music scene.
 						</p>
 					</div>
 				</div>
@@ -261,8 +260,7 @@
 							Self-branding and artistic development
 						</p>
 						<p class="text-gray-700 dark:text-gray-300 mt-2">
-							Various interests such as video editing, videography, design, music production and VJ'ing have crossed my path very regularly. I used these skills for my own
-							branding but also for the organisations I worked with.
+							Various interests such as video editing, videography, design, audiovisual technology, music production and VJ'ing have crossed my path very regularly. I used these skills for my own branding but also for the organisations I worked with.
 						</p>
 					</div>
 				</div>
