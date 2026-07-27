@@ -11,47 +11,47 @@
 
 <!-- Navigation Bar -->
 <header
-	class="sticky top-0 z-10 bg-gray-100 dark:bg-gray-800 p-4 border-b border-gray-300 dark:border-gray-700"
+	class="sticky top-0 z-10 bg-taupe-50 dark:bg-gunmetal-900 p-4 border-b border-dim-grey-300 dark:border-dim-grey-700"
 >
 	<nav class="flex justify-center gap-4">
 		<a
 			href="#projects"
-			class="text-gray-800 dark:text-gray-200 font-medium hover:text-blue-600 dark:hover:text-blue-400"
+			class="text-dim-grey-800 dark:text-dim-grey-200 font-medium hover:text-blue-600 dark:hover:text-blue-400"
 			>Projects</a
 		>
 		<a
 			href="#creative-pursuits"
-			class="text-gray-800 dark:text-gray-200 font-medium hover:text-blue-600 dark:hover:text-blue-400"
+			class="text-dim-grey-800 dark:text-dim-grey-200 font-medium hover:text-blue-600 dark:hover:text-blue-400"
 			>Creative Pursuits</a
 		>
 		<a
 			href="#work-experience"
-			class="text-gray-800 dark:text-gray-200 font-medium hover:text-blue-600 dark:hover:text-blue-400"
+			class="text-dim-grey-800 dark:text-dim-grey-200 font-medium hover:text-blue-600 dark:hover:text-blue-400"
 			>Work Experience</a
 		>
 		<a
 			href="#education"
-			class="text-gray-800 dark:text-gray-200 font-medium hover:text-blue-600 dark:hover:text-blue-400"
+			class="text-dim-grey-800 dark:text-dim-grey-200 font-medium hover:text-blue-600 dark:hover:text-blue-400"
 			>Education</a
 		>
 		<a
 			href="#contact"
-			class="text-gray-800 dark:text-gray-200 font-medium hover:text-blue-600 dark:hover:text-blue-400"
+			class="text-dim-grey-800 dark:text-dim-grey-200 font-medium hover:text-blue-600 dark:hover:text-blue-400"
 			>Contact</a
 		>
 	</nav>
 </header>
 
 <!-- Content -->
-<div class="p-8 bg-white dark:bg-gray-900">
+<div class="p-8 bg-dim-grey-50 dark:bg-gunmetal-950">
 	<div class="max-w-7xl mx-auto">
 		<!-- <section id="about" class="mb-8">
 		<h2
-			class="text-2xl font-semibold border-b-2 border-gray-300 dark:border-gray-700 pb-2 mb-4 text-gray-800 dark:text-gray-200"
+			class="text-2xl font-semibold border-b-2 border-dim-grey-300 dark:border-dim-grey-700 pb-2 mb-4 text-dim-grey-800 dark:text-dim-grey-200"
 		>
 			About Me
 		</h2>
-		<p class="text-gray-700 dark:text-gray-300">
+		<p class="text-dim-grey-600 dark:text-dim-grey-300">
 			Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut
 			labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
 		</p>
@@ -59,24 +59,24 @@
 
 		<section id="projects" class="mb-8">
 			<h2
-				class="text-2xl font-semibold border-b-2 border-gray-300 dark:border-gray-700 pb-2 mb-4 text-gray-800 dark:text-gray-200"
+				class="text-2xl font-semibold border-b-2 border-dim-grey-300 dark:border-dim-grey-700 pb-2 mb-4 text-dim-grey-800 dark:text-dim-grey-200"
 			>
 				Projects
 			</h2>
 			<div class="grid grid-cols-1 md:grid-cols-2 gap-6">
 				<div
-					class="border border-gray-300 dark:border-gray-700 p-6 rounded-lg bg-gray-50 dark:bg-gray-800 hover:shadow-lg transition-shadow flex overflow-hidden"
+					class="border border-dim-grey-300 dark:border-dim-grey-700 p-6 rounded-lg bg-taupe-50 dark:bg-gunmetal-800 hover:shadow-lg transition-shadow flex overflow-hidden"
 				>
 					<div class="mr-6 flex flex-col grow">
 						<div>
-							<h3 class="text-xl font-bold mb-2 text-gray-800 dark:text-gray-200">Odd Bird Out</h3>
-							<p class="text-gray-700 dark:text-gray-300 mb-4">
+							<h3 class="text-xl font-bold mb-2 text-dim-grey-800 dark:text-dim-grey-200">Odd Bird Out</h3>
+							<p class="text-dim-grey-600 dark:text-dim-grey-300 mb-4">
 								OddBirdOut is a three-player interactive game installation made for an art exhibition. The installation aims to explore the topic of cyber ostracism, which is the experience of feeling excluded in digital spaces. It features a custom-made structure with Android tablets attached to it. Throughout the game, the players will face the fact that exclusion is not always personal and that the feeling of being ostracized may be very easily triggered.
 							</p>
 						</div>
 						<a
 							href="https://triscc.github.io/OddBirdOut/"
-							class="inline-block text-blue-600 dark:text-blue-400 font-medium hover:underline mt-auto"
+							class="inline-block text-toffee-600 dark:text-toffee-400 font-medium hover:underline mt-auto"
 							>View Project</a
 						>
 					</div>
@@ -87,19 +87,19 @@
 					/>
 				</div>
 				<div
-					class="border border-gray-300 dark:border-gray-700 p-6 rounded-lg bg-gray-50 dark:bg-gray-800 hover:shadow-lg transition-shadow flex overflow-hidden"
+					class="border border-dim-grey-300 dark:border-dim-grey-700 p-6 rounded-lg bg-taupe-50 dark:bg-gunmetal-800 hover:shadow-lg transition-shadow flex overflow-hidden"
 				>
 					<div class="mr-6 flex flex-col grow">
 						<div>
-							<h3 class="text-xl font-bold mb-2 text-gray-800 dark:text-gray-200">Turff Mobile</h3>
-							<p class="text-gray-700 dark:text-gray-300 mb-4">
+							<h3 class="text-xl font-bold mb-2 text-dim-grey-800 dark:text-dim-grey-200">Turff Mobile</h3>
+							<p class="text-dim-grey-600 dark:text-dim-grey-300 mb-4">
 								The Turff mobile app is a companion application for the Turff tablets, allowing
 								users to manage and track their household expenses on the go.
 							</p>
 						</div>
 						<a
 							href="https://www.turff.nl/app/"
-							class="inline-block text-blue-600 dark:text-blue-400 font-medium hover:underline mt-auto"
+							class="inline-block text-toffee-600 dark:text-toffee-400 font-medium hover:underline mt-auto"
 							>View Project</a
 						>
 					</div>
@@ -110,12 +110,12 @@
 					/>
 				</div>
 				<div
-					class="border border-gray-300 dark:border-gray-700 p-6 rounded-lg bg-gray-50 dark:bg-gray-800 hover:shadow-lg transition-shadow flex overflow-hidden"
+					class="border border-dim-grey-300 dark:border-dim-grey-700 p-6 rounded-lg bg-taupe-50 dark:bg-gunmetal-800 hover:shadow-lg transition-shadow flex overflow-hidden"
 				>
 					<div class="mr-6 flex flex-col grow">
 						<div>
-							<h3 class="text-xl font-bold mb-2 text-gray-800 dark:text-gray-200">Turff Tablet</h3>
-							<p class="text-gray-700 dark:text-gray-300 mb-4">
+							<h3 class="text-xl font-bold mb-2 text-dim-grey-800 dark:text-dim-grey-200">Turff Tablet</h3>
+							<p class="text-dim-grey-600 dark:text-dim-grey-300 mb-4">
 								The Turff Tablet is an Android-based device designed to keep track of household
 								expenses in student housing. It features a user-friendly interface that allows
 								residents to log their expenses, view spending history, and manage budgets
@@ -124,7 +124,7 @@
 						</div>
 						<a
 							href="https://www.turff.nl/tablet/"
-							class="inline-block text-blue-600 dark:text-blue-400 font-medium hover:underline mt-auto"
+							class="inline-block text-toffee-600 dark:text-toffee-400 font-medium hover:underline mt-auto"
 							>View Project</a
 						>
 					</div>
@@ -135,14 +135,14 @@
 					/>
 				</div>
 				<div
-					class="border border-gray-300 dark:border-gray-700 p-6 rounded-lg bg-gray-50 dark:bg-gray-800 hover:shadow-lg transition-shadow flex overflow-hidden"
+					class="border border-dim-grey-300 dark:border-dim-grey-700 p-6 rounded-lg bg-taupe-50 dark:bg-gunmetal-800 hover:shadow-lg transition-shadow flex overflow-hidden"
 				>
 					<div class="mr-6 flex flex-col grow">
 						<div>
-							<h3 class="text-xl font-bold mb-2 text-gray-800 dark:text-gray-200">
+							<h3 class="text-xl font-bold mb-2 text-dim-grey-800 dark:text-dim-grey-200">
 								Subreddit Language Lab
 							</h3>
-							<p class="text-gray-700 dark:text-gray-300 mb-4">
+							<p class="text-dim-grey-600 dark:text-dim-grey-300 mb-4">
 								The Subreddit Language Lab is a Svelte web application that visualizes language
 								usage across various subreddits. It provides insights into linguistic patterns and
 								trends within online communities.
@@ -150,7 +150,7 @@
 						</div>
 						<a
 							href="https://triscc.github.io/subreddit-language-lab/"
-							class="inline-block text-blue-600 dark:text-blue-400 font-medium hover:underline mt-auto"
+							class="inline-block text-toffee-600 dark:text-toffee-400 font-medium hover:underline mt-auto"
 							>View Project</a
 						>
 					</div>
@@ -161,14 +161,14 @@
 					/>
 				</div>
 				<div
-					class="border border-gray-300 dark:border-gray-700 p-6 rounded-lg bg-gray-50 dark:bg-gray-800 hover:shadow-lg transition-shadow flex overflow-hidden"
+					class="border border-dim-grey-300 dark:border-dim-grey-700 p-6 rounded-lg bg-taupe-50 dark:bg-gunmetal-800 hover:shadow-lg transition-shadow flex overflow-hidden"
 				>
 					<div class="mr-6 flex flex-col grow">
 						<div>
-							<h3 class="text-xl font-bold mb-2 text-gray-800 dark:text-gray-200">
+							<h3 class="text-xl font-bold mb-2 text-dim-grey-800 dark:text-dim-grey-200">
 								Clickbait Conundrum
 							</h3>
-							<p class="text-gray-700 dark:text-gray-300 mb-4">
+							<p class="text-dim-grey-600 dark:text-dim-grey-300 mb-4">
 								The Clickbait Conundrum is a game that challenges players to identify and avoid
 								clickbait headlines. Players must navigate through a series of articles, making
 								choices that test their ability to discern genuine content from sensationalized
@@ -177,7 +177,7 @@
 						</div>
 						<a
 							href="https://triscc.github.io/clickbait_conundrum/#/"
-							class="inline-block text-blue-600 dark:text-blue-400 font-medium hover:underline mt-auto"
+							class="inline-block text-toffee-600 dark:text-toffee-400 font-medium hover:underline mt-auto"
 							>View Project</a
 						>
 					</div>
@@ -188,14 +188,14 @@
 					/>
 				</div>
 				<div
-					class="border border-gray-300 dark:border-gray-700 p-6 rounded-lg bg-gray-50 dark:bg-gray-800 hover:shadow-lg transition-shadow flex overflow-hidden"
+					class="border border-dim-grey-300 dark:border-dim-grey-700 p-6 rounded-lg bg-taupe-50 dark:bg-gunmetal-800 hover:shadow-lg transition-shadow flex overflow-hidden"
 				>
 					<div class="mr-6 flex flex-col grow">
 						<div>
-							<h3 class="text-xl font-bold mb-2 text-gray-800 dark:text-gray-200">
+							<h3 class="text-xl font-bold mb-2 text-dim-grey-800 dark:text-dim-grey-200">
 								Creative Programming with P5.js
 							</h3>
-							<p class="text-gray-700 dark:text-gray-300 mb-4">
+							<p class="text-dim-grey-600 dark:text-dim-grey-300 mb-4">
 								For the Creative Programming course, I developed various interactive visualizations
 								and animations using the P5.js library. These projects explored concepts such as
 								generative art, user interaction, and algorithmic design.
@@ -203,7 +203,7 @@
 						</div>
 						<a
 							href="https://triscc.github.io/creative-programming/index.html"
-							class="inline-block text-blue-600 dark:text-blue-400 font-medium hover:underline mt-auto"
+							class="inline-block text-toffee-600 dark:text-toffee-400 font-medium hover:underline mt-auto"
 							>View Project</a
 						>
 					</div>
@@ -218,48 +218,48 @@
 
 		<section id="creative-pursuits" class="mb-8">
 			<h2
-				class="text-2xl font-semibold border-b-2 border-gray-300 dark:border-gray-700 pb-2 mb-4 text-gray-800 dark:text-gray-200"
+				class="text-2xl font-semibold border-b-2 border-dim-grey-300 dark:border-dim-grey-700 pb-2 mb-4 text-dim-grey-800 dark:text-dim-grey-200"
 			>
 				Creative Pursuits
 			</h2>
 			<div class="space-y-4">
 				<div
-					class="flex items-start gap-4 p-4 rounded-lg bg-gray-50 dark:bg-gray-800"
+					class="flex items-start gap-4 p-4 rounded-lg bg-taupe-50 dark:bg-gunmetal-800"
 				>
 					<span class="text-3xl pt-0.5">🎧</span>
 					<div>
-						<h3 class="text-xl font-bold text-gray-800 dark:text-gray-200">DJ Cotino</h3>
-						<p class="text-md text-gray-600 dark:text-gray-400">
+						<h3 class="text-xl font-bold text-dim-grey-800 dark:text-dim-grey-200">DJ Cotino</h3>
+						<p class="text-md text-dim-grey-500 dark:text-dim-grey-400">
 							Various venues and a residency
 						</p>
-						<p class="text-gray-700 dark:text-gray-300 mt-2">
+						<p class="text-dim-grey-600 dark:text-dim-grey-300 mt-2">
 							Semi-professional DJ playing a variety of music for a general student crowd. There were also a few bookings in the local electronic music scene.
 						</p>
 					</div>
 				</div>
 				<div
-					class="flex items-start gap-4 p-4 rounded-lg bg-gray-50 dark:bg-gray-800"
+					class="flex items-start gap-4 p-4 rounded-lg bg-taupe-50 dark:bg-gunmetal-800"
 				>
 					<span class="text-3xl pt-0.5">🗓️</span>
 					<div>
-						<h3 class="text-xl font-bold text-gray-800 dark:text-gray-200">Event Management</h3>
-						<p class="text-md text-gray-600 dark:text-gray-400">SKY BASS</p>
-						<p class="text-gray-700 dark:text-gray-300 mt-2">
+						<h3 class="text-xl font-bold text-dim-grey-800 dark:text-dim-grey-200">Event Management</h3>
+						<p class="text-md text-dim-grey-500 dark:text-dim-grey-400">SKY BASS</p>
+						<p class="text-dim-grey-600 dark:text-dim-grey-300 mt-2">
 							These events were mostly for some local venues and one in the UK. With 3 other
 							organizers we managed the marketing, sales and (technical) production of the events.
 						</p>
 					</div>
 				</div>
 				<div
-					class="flex items-start gap-4 p-4 rounded-lg bg-gray-50 dark:bg-gray-800"
+					class="flex items-start gap-4 p-4 rounded-lg bg-taupe-50 dark:bg-gunmetal-800"
 				>
 					<span class="text-3xl pt-0.5">🎨</span>
 					<div>
-						<h3 class="text-xl font-bold text-gray-800 dark:text-gray-200">Multimedia Production</h3>
-						<p class="text-md text-gray-600 dark:text-gray-400">
+						<h3 class="text-xl font-bold text-dim-grey-800 dark:text-dim-grey-200">Multimedia Production</h3>
+						<p class="text-md text-dim-grey-500 dark:text-dim-grey-400">
 							Self-branding and artistic development
 						</p>
-						<p class="text-gray-700 dark:text-gray-300 mt-2">
+						<p class="text-dim-grey-600 dark:text-dim-grey-300 mt-2">
 							Various interests such as video editing, videography, design, audiovisual technology, music production and VJ'ing have crossed my path very regularly. I used these skills for my own branding but also for the organisations I worked with.
 						</p>
 					</div>
@@ -269,41 +269,41 @@
 
 		<section id="work-experience" class="mb-8">
 			<h2
-				class="text-2xl font-semibold border-b-2 border-gray-300 dark:border-gray-700 pb-2 mb-4 text-gray-800 dark:text-gray-200"
+				class="text-2xl font-semibold border-b-2 border-dim-grey-300 dark:border-dim-grey-700 pb-2 mb-4 text-dim-grey-800 dark:text-dim-grey-200"
 			>
 				Work Experience
 			</h2>
 			<div class="space-y-6">
 				<div>
-					<h3 class="text-xl font-bold text-gray-800 dark:text-gray-200">Android and iOS Developer</h3>
-					<p class="text-md text-gray-600 dark:text-gray-400">9to5 software | Jan 2026 - Present</p>
-					<p class="text-gray-700 dark:text-gray-300 mt-2">
+					<h3 class="text-xl font-bold text-dim-grey-800 dark:text-dim-grey-200">Android and iOS Developer</h3>
+					<p class="text-md text-dim-grey-500 dark:text-dim-grey-400">9to5 software | Jan 2026 - Present</p>
+					<p class="text-dim-grey-600 dark:text-dim-grey-300 mt-2">
 						Responsible for the development of multiple native in-house and client Android and iOS apps written in
 						Kotlin and Swift.
 					</p>
 				</div>
 				<div>
-					<h3 class="text-xl font-bold text-gray-800 dark:text-gray-200">
+					<h3 class="text-xl font-bold text-dim-grey-800 dark:text-dim-grey-200">
 						Customer Support Representative
 					</h3>
-					<p class="text-md text-gray-600 dark:text-gray-400">aanmelder.nl | Apr 2025 - Dec 2025</p>
-					<p class="text-gray-700 dark:text-gray-300 mt-2">
+					<p class="text-md text-dim-grey-500 dark:text-dim-grey-400">aanmelder.nl | Apr 2025 - Dec 2025</p>
+					<p class="text-dim-grey-600 dark:text-dim-grey-300 mt-2">
 						Part of the customer support team, assisting clients with product inquiries and
 						troubleshooting
 					</p>
 				</div>
 				<div>
-					<h3 class="text-xl font-bold text-gray-800 dark:text-gray-200">Android Engineer</h3>
-					<p class="text-md text-gray-600 dark:text-gray-400">Turff | Jan 2023 - Feb 2024</p>
-					<p class="text-gray-700 dark:text-gray-300 mt-2">
+					<h3 class="text-xl font-bold text-dim-grey-800 dark:text-dim-grey-200">Android Engineer</h3>
+					<p class="text-md text-dim-grey-500 dark:text-dim-grey-400">Turff | Jan 2023 - Feb 2024</p>
+					<p class="text-dim-grey-600 dark:text-dim-grey-300 mt-2">
 						Responsible for the development and troubleshooting of the Turff tablet software which
 						required low level Android knowledge to optimize performance and reliability.
 					</p>
 				</div>
 				<div>
-					<h3 class="text-xl font-bold text-gray-800 dark:text-gray-200">Flutter Developer</h3>
-					<p class="text-md text-gray-600 dark:text-gray-400">Turff | Jun 2021 - Dec 2022</p>
-					<p class="text-gray-700 dark:text-gray-300 mt-2">
+					<h3 class="text-xl font-bold text-dim-grey-800 dark:text-dim-grey-200">Flutter Developer</h3>
+					<p class="text-md text-dim-grey-500 dark:text-dim-grey-400">Turff | Jun 2021 - Dec 2022</p>
+					<p class="text-dim-grey-600 dark:text-dim-grey-300 mt-2">
 						Created the Turff mobile app using the Flutter framework in combination with libraries
 						and services such as BLoC, go_router, Firebase, Sentry and Mixpanel
 					</p>
@@ -313,29 +313,29 @@
 
 		<section id="education" class="mb-8">
 			<h2
-				class="text-2xl font-semibold border-b-2 border-gray-300 dark:border-gray-700 pb-2 mb-4 text-gray-800 dark:text-gray-200"
+				class="text-2xl font-semibold border-b-2 border-dim-grey-300 dark:border-dim-grey-700 pb-2 mb-4 text-dim-grey-800 dark:text-dim-grey-200"
 			>
 				Education
 			</h2>
 			<div class="space-y-6">
 				<div>
-					<h3 class="text-xl font-bold text-gray-800 dark:text-gray-200">
+					<h3 class="text-xl font-bold text-dim-grey-800 dark:text-dim-grey-200">
 						MSc Creative Intelligence and Technology
 					</h3>
-					<p class="text-md text-gray-600 dark:text-gray-400">
+					<p class="text-md text-dim-grey-500 dark:text-dim-grey-400">
 						Leiden University | Sep 2025 - Jul 2027
 					</p>
-					<p class="text-gray-700 dark:text-gray-300 mt-2">
+					<p class="text-dim-grey-600 dark:text-dim-grey-300 mt-2">
 						Master's degree in Creative Intelligence and Technology, focusing on the intersection of
 						creativity, technology, and human-centered design.
 					</p>
 				</div>
 				<div>
-					<h3 class="text-xl font-bold text-gray-800 dark:text-gray-200">BSc Computer Science</h3>
-					<p class="text-md text-gray-600 dark:text-gray-400">
+					<h3 class="text-xl font-bold text-dim-grey-800 dark:text-dim-grey-200">BSc Computer Science</h3>
+					<p class="text-md text-dim-grey-500 dark:text-dim-grey-400">
 						Leiden University | Sep 2019 - Jul 2025
 					</p>
-					<p class="text-gray-700 dark:text-gray-300 mt-2">
+					<p class="text-dim-grey-600 dark:text-dim-grey-300 mt-2">
 						Bachelor's degree in Computer Science with a minor in Digital Humanities.
 					</p>
 				</div>
@@ -344,7 +344,7 @@
 
 		<section id="contact" class="mb-8">
 			<h2
-				class="text-2xl font-semibold border-b-2 border-gray-300 dark:border-gray-700 pb-2 mb-4 text-gray-800 dark:text-gray-200"
+				class="text-2xl font-semibold border-b-2 border-dim-grey-300 dark:border-dim-grey-700 pb-2 mb-4 text-dim-grey-800 dark:text-dim-grey-200"
 			>
 				Contact
 			</h2>
@@ -353,7 +353,7 @@
 					href="https://www.linkedin.com/in/tristancotino/"
 					target="_blank"
 					rel="noopener noreferrer"
-					class="inline-flex items-center bg-blue-600 dark:bg-blue-500 text-white font-medium py-2 px-4 rounded-lg hover:bg-blue-700 dark:hover:bg-blue-600 transition-colors"
+					class="inline-flex items-center bg-toffee-600 dark:bg-toffee-500 text-white font-medium py-2 px-4 rounded-lg hover:bg-toffee-700 dark:hover:bg-toffee-600 transition-colors"
 				>
 					<svg
 						xmlns="http://www.w3.org/2000/svg"
@@ -371,7 +371,7 @@
 					href="https://github.com/TrisCC"
 					target="_blank"
 					rel="noopener noreferrer"
-					class="inline-flex items-center bg-gray-200 dark:bg-gray-700 text-gray-800 dark:text-gray-200 font-medium py-2 px-4 rounded-lg hover:bg-gray-300 dark:hover:bg-gray-600 transition-colors"
+					class="inline-flex items-center bg-taupe-200 dark:bg-gunmetal-700 text-dim-grey-800 dark:text-dim-grey-200 font-medium py-2 px-4 rounded-lg hover:bg-taupe-300 dark:hover:bg-gunmetal-600 transition-colors"
 				>
 					<svg
 						xmlns="http://www.w3.org/2000/svg"
@@ -389,7 +389,7 @@
 					href="https://www.instagram.com/tristancotino/"
 					target="_blank"
 					rel="noopener noreferrer"
-					class="inline-flex items-center bg-pink-500 dark:bg-pink-400 text-white font-medium py-2 px-4 rounded-lg hover:bg-pink-600 dark:hover:bg-pink-500 transition-colors"
+					class="inline-flex items-center bg-camel-500 dark:bg-camel-400 text-white font-medium py-2 px-4 rounded-lg hover:bg-camel-600 dark:hover:bg-camel-500 transition-colors"
 				>
 					<svg
 						xmlns="http://www.w3.org/2000/svg"
