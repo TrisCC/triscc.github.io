@@ -16,51 +16,40 @@
 	<nav class="flex justify-center gap-4">
 		<a
 			href="#projects"
-			class="text-dim-grey-800 dark:text-dim-grey-200 font-medium hover:text-blue-600 dark:hover:text-blue-400"
+			class="text-dim-grey-800 dark:text-dim-grey-200 font-medium hover:text-toffee-600 dark:hover:text-toffee-400"
 			>Projects</a
 		>
 		<a
 			href="#creative-pursuits"
-			class="text-dim-grey-800 dark:text-dim-grey-200 font-medium hover:text-blue-600 dark:hover:text-blue-400"
+			class="text-dim-grey-800 dark:text-dim-grey-200 font-medium hover:text-toffee-600 dark:hover:text-toffee-400"
 			>Creative Pursuits</a
 		>
 		<a
 			href="#work-experience"
-			class="text-dim-grey-800 dark:text-dim-grey-200 font-medium hover:text-blue-600 dark:hover:text-blue-400"
+			class="text-dim-grey-800 dark:text-dim-grey-200 font-medium hover:text-toffee-600 dark:hover:text-toffee-400"
 			>Work Experience</a
 		>
 		<a
 			href="#education"
-			class="text-dim-grey-800 dark:text-dim-grey-200 font-medium hover:text-blue-600 dark:hover:text-blue-400"
+			class="text-dim-grey-800 dark:text-dim-grey-200 font-medium hover:text-toffee-600 dark:hover:text-toffee-400"
 			>Education</a
 		>
 		<a
 			href="#contact"
-			class="text-dim-grey-800 dark:text-dim-grey-200 font-medium hover:text-blue-600 dark:hover:text-blue-400"
+			class="text-dim-grey-800 dark:text-dim-grey-200 font-medium hover:text-toffee-600 dark:hover:text-toffee-400"
 			>Contact</a
 		>
 	</nav>
 </header>
 
 <!-- Content -->
-<div class="p-8 bg-dim-grey-50 dark:bg-gunmetal-950">
-	<div class="max-w-7xl mx-auto">
-		<!-- <section id="about" class="mb-8">
-		<h2
-			class="text-2xl font-semibold border-b-2 border-dim-grey-300 dark:border-dim-grey-700 pb-2 mb-4 text-dim-grey-800 dark:text-dim-grey-200"
-		>
-			About Me
-		</h2>
-		<p class="text-dim-grey-600 dark:text-dim-grey-300">
-			Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut
-			labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-		</p>
-	</section> -->
-
-		<section id="projects" class="mb-8">
+<div>
+	<section id="projects" class="py-10 bg-dim-grey-50 dark:bg-gunmetal-950">
+		<div class="max-w-7xl mx-auto px-8">
 			<h2
-				class="text-2xl font-semibold border-b-2 border-dim-grey-300 dark:border-dim-grey-700 pb-2 mb-4 text-dim-grey-800 dark:text-dim-grey-200"
+				class="text-2xl font-semibold border-b-2 border-dim-grey-300 dark:border-dim-grey-700 pb-2 mb-6 text-dim-grey-800 dark:text-dim-grey-200"
 			>
+				<svg xmlns="http://www.w3.org/2000/svg" class="inline w-6 h-6 mr-2 -mt-1 text-toffee-600 dark:text-toffee-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M10 20l4-16m4 4l4 4-4 4M6 16l-4-4 4-4" /></svg>
 				Projects
 			</h2>
 			<div class="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -214,12 +203,15 @@
 					/>
 				</div>
 			</div>
-		</section>
+		</div>
+	</section>
 
-		<section id="creative-pursuits" class="mb-8">
+	<section id="creative-pursuits" class="py-10 bg-taupe-50 dark:bg-gunmetal-900">
+		<div class="max-w-7xl mx-auto px-8">
 			<h2
-				class="text-2xl font-semibold border-b-2 border-dim-grey-300 dark:border-dim-grey-700 pb-2 mb-4 text-dim-grey-800 dark:text-dim-grey-200"
+				class="text-2xl font-semibold border-b-2 border-dim-grey-300 dark:border-dim-grey-700 pb-2 mb-6 text-dim-grey-800 dark:text-dim-grey-200"
 			>
+				<svg xmlns="http://www.w3.org/2000/svg" class="inline w-6 h-6 mr-2 -mt-1 text-toffee-600 dark:text-toffee-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M5 3v4M3 5h4M6 17v4m-2-2h4m5-16l2.286 6.857L21 12l-5.714 2.143L13 21l-2.286-6.857L5 12l5.714-2.143L13 3z" /></svg>
 				Creative Pursuits
 			</h2>
 			<div class="space-y-4">
@@ -265,12 +257,15 @@
 					</div>
 				</div>
 			</div>
-		</section>
+		</div>
+	</section>
 
-		<section id="work-experience" class="mb-8">
+	<section id="work-experience" class="py-10 bg-dim-grey-50 dark:bg-gunmetal-950">
+		<div class="max-w-7xl mx-auto px-8">
 			<h2
-				class="text-2xl font-semibold border-b-2 border-dim-grey-300 dark:border-dim-grey-700 pb-2 mb-4 text-dim-grey-800 dark:text-dim-grey-200"
+				class="text-2xl font-semibold border-b-2 border-dim-grey-300 dark:border-dim-grey-700 pb-2 mb-6 text-dim-grey-800 dark:text-dim-grey-200"
 			>
+				<svg xmlns="http://www.w3.org/2000/svg" class="inline w-6 h-6 mr-2 -mt-1 text-toffee-600 dark:text-toffee-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M21 13.255A23.931 23.931 0 0112 15c-3.183 0-6.22-.62-9-1.745M16 6V4a2 2 0 00-2-2h-4a2 2 0 00-2 2v2m4 6h.01M5 20h14a2 2 0 002-2V8a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" /></svg>
 				Work Experience
 			</h2>
 			<div class="space-y-6">
@@ -309,12 +304,15 @@
 					</p>
 				</div>
 			</div>
-		</section>
+		</div>
+	</section>
 
-		<section id="education" class="mb-8">
+	<section id="education" class="py-10 bg-taupe-50 dark:bg-gunmetal-900">
+		<div class="max-w-7xl mx-auto px-8">
 			<h2
-				class="text-2xl font-semibold border-b-2 border-dim-grey-300 dark:border-dim-grey-700 pb-2 mb-4 text-dim-grey-800 dark:text-dim-grey-200"
+				class="text-2xl font-semibold border-b-2 border-dim-grey-300 dark:border-dim-grey-700 pb-2 mb-6 text-dim-grey-800 dark:text-dim-grey-200"
 			>
+				<svg xmlns="http://www.w3.org/2000/svg" class="inline w-6 h-6 mr-2 -mt-1 text-toffee-600 dark:text-toffee-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path d="M22 10v6M2 10l10-5 10 5-10 5z" /><path stroke-linecap="round" stroke-linejoin="round" d="M6 12v5c0 2 3 3 6 3s6-1 6-3v-5" /></svg>
 				Education
 			</h2>
 			<div class="space-y-6">
@@ -340,12 +338,15 @@
 					</p>
 				</div>
 			</div>
-		</section>
+		</div>
+	</section>
 
-		<section id="contact" class="mb-8">
+	<section id="contact" class="py-10 bg-dim-grey-50 dark:bg-gunmetal-950">
+		<div class="max-w-7xl mx-auto px-8">
 			<h2
-				class="text-2xl font-semibold border-b-2 border-dim-grey-300 dark:border-dim-grey-700 pb-2 mb-4 text-dim-grey-800 dark:text-dim-grey-200"
+				class="text-2xl font-semibold border-b-2 border-dim-grey-300 dark:border-dim-grey-700 pb-2 mb-6 text-dim-grey-800 dark:text-dim-grey-200"
 			>
+				<svg xmlns="http://www.w3.org/2000/svg" class="inline w-6 h-6 mr-2 -mt-1 text-toffee-600 dark:text-toffee-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" /></svg>
 				Contact
 			</h2>
 			<div class="flex gap-4">
@@ -404,6 +405,6 @@
 					Instagram
 				</a>
 			</div>
-		</section>
-	</div>
+		</div>
+	</section>
 </div>
