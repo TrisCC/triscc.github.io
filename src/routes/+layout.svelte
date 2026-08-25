@@ -17,6 +17,8 @@
 	<footer
 		class="bg-taupe-50 dark:bg-gunmetal-900 p-4 text-center border-t border-dim-grey-300 dark:border-dim-grey-700"
 	>
-		<p class="text-dim-grey-800 dark:text-dim-grey-200">&copy; 2025 Tristan Cotino. All rights reserved.</p>
+		<p class="text-dim-grey-800 dark:text-dim-grey-200">
+			&copy; 2025 Tristan Cotino. All rights reserved.
+		</p>
 	</footer>
 </div>

@@ -49,7 +49,19 @@
 			<h2
 				class="text-2xl font-semibold border-b-2 border-dim-grey-300 dark:border-dim-grey-700 pb-2 mb-6 text-dim-grey-800 dark:text-dim-grey-200"
 			>
-				<svg xmlns="http://www.w3.org/2000/svg" class="inline w-6 h-6 mr-2 -mt-1 text-toffee-600 dark:text-toffee-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M10 20l4-16m4 4l4 4-4 4M6 16l-4-4 4-4" /></svg>
+				<svg
+					xmlns="http://www.w3.org/2000/svg"
+					class="inline w-6 h-6 mr-2 -mt-1 text-toffee-600 dark:text-toffee-400"
+					fill="none"
+					viewBox="0 0 24 24"
+					stroke="currentColor"
+					stroke-width="2"
+					><path
+						stroke-linecap="round"
+						stroke-linejoin="round"
+						d="M10 20l4-16m4 4l4 4-4 4M6 16l-4-4 4-4"
+					/></svg
+				>
 				Projects
 			</h2>
 			<div class="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -58,9 +70,16 @@
 				>
 					<div class="mr-6 flex flex-col grow">
 						<div>
-							<h3 class="text-xl font-bold mb-2 text-dim-grey-800 dark:text-dim-grey-200">Odd Bird Out</h3>
+							<h3 class="text-xl font-bold mb-2 text-dim-grey-800 dark:text-dim-grey-200">
+								Odd Bird Out
+							</h3>
 							<p class="text-dim-grey-600 dark:text-dim-grey-300 mb-4">
-								OddBirdOut is a three-player interactive game installation made for an art exhibition. The installation aims to explore the topic of cyber ostracism, which is the experience of feeling excluded in digital spaces. It features a custom-made structure with Android tablets attached to it. Throughout the game, the players will face the fact that exclusion is not always personal and that the feeling of being ostracized may be very easily triggered.
+								OddBirdOut is a three-player interactive game installation made for an art
+								exhibition. The installation aims to explore the topic of cyber ostracism, which is
+								the experience of feeling excluded in digital spaces. It features a custom-made
+								structure with Android tablets attached to it. Throughout the game, the players will
+								face the fact that exclusion is not always personal and that the feeling of being
+								ostracized may be very easily triggered.
 							</p>
 						</div>
 						<a
@@ -80,7 +99,9 @@
 				>
 					<div class="mr-6 flex flex-col grow">
 						<div>
-							<h3 class="text-xl font-bold mb-2 text-dim-grey-800 dark:text-dim-grey-200">Turff Mobile</h3>
+							<h3 class="text-xl font-bold mb-2 text-dim-grey-800 dark:text-dim-grey-200">
+								Turff Mobile
+							</h3>
 							<p class="text-dim-grey-600 dark:text-dim-grey-300 mb-4">
 								The Turff mobile app is a companion application for the Turff tablets, allowing
 								users to manage and track their household expenses on the go.
@@ -103,7 +124,9 @@
 				>
 					<div class="mr-6 flex flex-col grow">
 						<div>
-							<h3 class="text-xl font-bold mb-2 text-dim-grey-800 dark:text-dim-grey-200">Turff Tablet</h3>
+							<h3 class="text-xl font-bold mb-2 text-dim-grey-800 dark:text-dim-grey-200">
+								Turff Tablet
+							</h3>
 							<p class="text-dim-grey-600 dark:text-dim-grey-300 mb-4">
 								The Turff Tablet is an Android-based device designed to keep track of household
 								expenses in student housing. It features a user-friendly interface that allows
@@ -211,13 +234,23 @@
 			<h2
 				class="text-2xl font-semibold border-b-2 border-dim-grey-300 dark:border-dim-grey-700 pb-2 mb-6 text-dim-grey-800 dark:text-dim-grey-200"
 			>
-				<svg xmlns="http://www.w3.org/2000/svg" class="inline w-6 h-6 mr-2 -mt-1 text-toffee-600 dark:text-toffee-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M5 3v4M3 5h4M6 17v4m-2-2h4m5-16l2.286 6.857L21 12l-5.714 2.143L13 21l-2.286-6.857L5 12l5.714-2.143L13 3z" /></svg>
+				<svg
+					xmlns="http://www.w3.org/2000/svg"
+					class="inline w-6 h-6 mr-2 -mt-1 text-toffee-600 dark:text-toffee-400"
+					fill="none"
+					viewBox="0 0 24 24"
+					stroke="currentColor"
+					stroke-width="2"
+					><path
+						stroke-linecap="round"
+						stroke-linejoin="round"
+						d="M5 3v4M3 5h4M6 17v4m-2-2h4m5-16l2.286 6.857L21 12l-5.714 2.143L13 21l-2.286-6.857L5 12l5.714-2.143L13 3z"
+					/></svg
+				>
 				Creative Pursuits
 			</h2>
 			<div class="space-y-4">
-				<div
-					class="flex items-start gap-4 p-4 rounded-lg bg-taupe-50 dark:bg-gunmetal-800"
-				>
+				<div class="flex items-start gap-4 p-4 rounded-lg bg-taupe-50 dark:bg-gunmetal-800">
 					<span class="text-3xl pt-0.5">🎧</span>
 					<div>
 						<h3 class="text-xl font-bold text-dim-grey-800 dark:text-dim-grey-200">DJ Cotino</h3>
@@ -225,16 +258,17 @@
 							Various venues and a residency
 						</p>
 						<p class="text-dim-grey-600 dark:text-dim-grey-300 mt-2">
-							Semi-professional DJ playing a variety of music for a general student crowd. There were also a few bookings in the local electronic music scene.
+							Semi-professional DJ playing a variety of music for a general student crowd. There
+							were also a few bookings in the local electronic music scene.
 						</p>
 					</div>
 				</div>
-				<div
-					class="flex items-start gap-4 p-4 rounded-lg bg-taupe-50 dark:bg-gunmetal-800"
-				>
+				<div class="flex items-start gap-4 p-4 rounded-lg bg-taupe-50 dark:bg-gunmetal-800">
 					<span class="text-3xl pt-0.5">🗓️</span>
 					<div>
-						<h3 class="text-xl font-bold text-dim-grey-800 dark:text-dim-grey-200">Event Management</h3>
+						<h3 class="text-xl font-bold text-dim-grey-800 dark:text-dim-grey-200">
+							Event Management
+						</h3>
 						<p class="text-md text-dim-grey-500 dark:text-dim-grey-400">SKY BASS</p>
 						<p class="text-dim-grey-600 dark:text-dim-grey-300 mt-2">
 							These events were mostly for some local venues and one in the UK. With 3 other
@@ -242,17 +276,19 @@
 						</p>
 					</div>
 				</div>
-				<div
-					class="flex items-start gap-4 p-4 rounded-lg bg-taupe-50 dark:bg-gunmetal-800"
-				>
+				<div class="flex items-start gap-4 p-4 rounded-lg bg-taupe-50 dark:bg-gunmetal-800">
 					<span class="text-3xl pt-0.5">🎨</span>
 					<div>
-						<h3 class="text-xl font-bold text-dim-grey-800 dark:text-dim-grey-200">Multimedia Production</h3>
+						<h3 class="text-xl font-bold text-dim-grey-800 dark:text-dim-grey-200">
+							Multimedia Production
+						</h3>
 						<p class="text-md text-dim-grey-500 dark:text-dim-grey-400">
 							Self-branding and artistic development
 						</p>
 						<p class="text-dim-grey-600 dark:text-dim-grey-300 mt-2">
-							Various interests such as video editing, videography, design, audiovisual technology, music production and VJ'ing have crossed my path very regularly. I used these skills for my own branding but also for the organisations I worked with.
+							Various interests such as video editing, videography, design, audiovisual technology,
+							music production and VJ'ing have crossed my path very regularly. I used these skills
+							for my own branding but also for the organisations I worked with.
 						</p>
 					</div>
 				</div>
@@ -265,39 +301,65 @@
 			<h2
 				class="text-2xl font-semibold border-b-2 border-dim-grey-300 dark:border-dim-grey-700 pb-2 mb-6 text-dim-grey-800 dark:text-dim-grey-200"
 			>
-				<svg xmlns="http://www.w3.org/2000/svg" class="inline w-6 h-6 mr-2 -mt-1 text-toffee-600 dark:text-toffee-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M21 13.255A23.931 23.931 0 0112 15c-3.183 0-6.22-.62-9-1.745M16 6V4a2 2 0 00-2-2h-4a2 2 0 00-2 2v2m4 6h.01M5 20h14a2 2 0 002-2V8a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" /></svg>
+				<svg
+					xmlns="http://www.w3.org/2000/svg"
+					class="inline w-6 h-6 mr-2 -mt-1 text-toffee-600 dark:text-toffee-400"
+					fill="none"
+					viewBox="0 0 24 24"
+					stroke="currentColor"
+					stroke-width="2"
+					><path
+						stroke-linecap="round"
+						stroke-linejoin="round"
+						d="M21 13.255A23.931 23.931 0 0112 15c-3.183 0-6.22-.62-9-1.745M16 6V4a2 2 0 00-2-2h-4a2 2 0 00-2 2v2m4 6h.01M5 20h14a2 2 0 002-2V8a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"
+					/></svg
+				>
 				Work Experience
 			</h2>
 			<div class="space-y-6">
 				<div>
-					<h3 class="text-xl font-bold text-dim-grey-800 dark:text-dim-grey-200">Android and iOS Developer</h3>
-					<p class="text-md text-dim-grey-500 dark:text-dim-grey-400">9to5 software | Jan 2026 - Present</p>
+					<h3 class="text-xl font-bold text-dim-grey-800 dark:text-dim-grey-200">
+						Android and iOS Developer
+					</h3>
+					<p class="text-md text-dim-grey-500 dark:text-dim-grey-400">
+						9to5 software | Jan 2026 - Present
+					</p>
 					<p class="text-dim-grey-600 dark:text-dim-grey-300 mt-2">
-						Responsible for the development of multiple native in-house and client Android and iOS apps written in
-						Kotlin and Swift.
+						Responsible for the development of multiple native in-house and client Android and iOS
+						apps written in Kotlin and Swift.
 					</p>
 				</div>
 				<div>
 					<h3 class="text-xl font-bold text-dim-grey-800 dark:text-dim-grey-200">
 						Customer Support Representative
 					</h3>
-					<p class="text-md text-dim-grey-500 dark:text-dim-grey-400">aanmelder.nl | Apr 2025 - Dec 2025</p>
+					<p class="text-md text-dim-grey-500 dark:text-dim-grey-400">
+						aanmelder.nl | Apr 2025 - Dec 2025
+					</p>
 					<p class="text-dim-grey-600 dark:text-dim-grey-300 mt-2">
 						Part of the customer support team, assisting clients with product inquiries and
 						troubleshooting
 					</p>
 				</div>
 				<div>
-					<h3 class="text-xl font-bold text-dim-grey-800 dark:text-dim-grey-200">Android Engineer</h3>
-					<p class="text-md text-dim-grey-500 dark:text-dim-grey-400">Turff | Jan 2023 - Feb 2024</p>
+					<h3 class="text-xl font-bold text-dim-grey-800 dark:text-dim-grey-200">
+						Android Engineer
+					</h3>
+					<p class="text-md text-dim-grey-500 dark:text-dim-grey-400">
+						Turff | Jan 2023 - Feb 2024
+					</p>
 					<p class="text-dim-grey-600 dark:text-dim-grey-300 mt-2">
 						Responsible for the development and troubleshooting of the Turff tablet software which
 						required low level Android knowledge to optimize performance and reliability.
 					</p>
 				</div>
 				<div>
-					<h3 class="text-xl font-bold text-dim-grey-800 dark:text-dim-grey-200">Flutter Developer</h3>
-					<p class="text-md text-dim-grey-500 dark:text-dim-grey-400">Turff | Jun 2021 - Dec 2022</p>
+					<h3 class="text-xl font-bold text-dim-grey-800 dark:text-dim-grey-200">
+						Flutter Developer
+					</h3>
+					<p class="text-md text-dim-grey-500 dark:text-dim-grey-400">
+						Turff | Jun 2021 - Dec 2022
+					</p>
 					<p class="text-dim-grey-600 dark:text-dim-grey-300 mt-2">
 						Created the Turff mobile app using the Flutter framework in combination with libraries
 						and services such as BLoC, go_router, Firebase, Sentry and Mixpanel
@@ -312,7 +374,19 @@
 			<h2
 				class="text-2xl font-semibold border-b-2 border-dim-grey-300 dark:border-dim-grey-700 pb-2 mb-6 text-dim-grey-800 dark:text-dim-grey-200"
 			>
-				<svg xmlns="http://www.w3.org/2000/svg" class="inline w-6 h-6 mr-2 -mt-1 text-toffee-600 dark:text-toffee-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path d="M22 10v6M2 10l10-5 10 5-10 5z" /><path stroke-linecap="round" stroke-linejoin="round" d="M6 12v5c0 2 3 3 6 3s6-1 6-3v-5" /></svg>
+				<svg
+					xmlns="http://www.w3.org/2000/svg"
+					class="inline w-6 h-6 mr-2 -mt-1 text-toffee-600 dark:text-toffee-400"
+					fill="none"
+					viewBox="0 0 24 24"
+					stroke="currentColor"
+					stroke-width="2"
+					><path d="M22 10v6M2 10l10-5 10 5-10 5z" /><path
+						stroke-linecap="round"
+						stroke-linejoin="round"
+						d="M6 12v5c0 2 3 3 6 3s6-1 6-3v-5"
+					/></svg
+				>
 				Education
 			</h2>
 			<div class="space-y-6">
@@ -329,7 +403,9 @@
 					</p>
 				</div>
 				<div>
-					<h3 class="text-xl font-bold text-dim-grey-800 dark:text-dim-grey-200">BSc Computer Science</h3>
+					<h3 class="text-xl font-bold text-dim-grey-800 dark:text-dim-grey-200">
+						BSc Computer Science
+					</h3>
 					<p class="text-md text-dim-grey-500 dark:text-dim-grey-400">
 						Leiden University | Sep 2019 - Jul 2025
 					</p>
@@ -346,7 +422,19 @@
 			<h2
 				class="text-2xl font-semibold border-b-2 border-dim-grey-300 dark:border-dim-grey-700 pb-2 mb-6 text-dim-grey-800 dark:text-dim-grey-200"
 			>
-				<svg xmlns="http://www.w3.org/2000/svg" class="inline w-6 h-6 mr-2 -mt-1 text-toffee-600 dark:text-toffee-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" /></svg>
+				<svg
+					xmlns="http://www.w3.org/2000/svg"
+					class="inline w-6 h-6 mr-2 -mt-1 text-toffee-600 dark:text-toffee-400"
+					fill="none"
+					viewBox="0 0 24 24"
+					stroke="currentColor"
+					stroke-width="2"
+					><path
+						stroke-linecap="round"
+						stroke-linejoin="round"
+						d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"
+					/></svg
+				>
 				Contact
 			</h2>
 			<div class="flex gap-4">
